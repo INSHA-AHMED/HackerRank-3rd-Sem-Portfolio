@@ -160,4 +160,11 @@ HackerRank-3rd-Sem-Portfolio/
 ├── 05-Sparse-Arrays/
 │   └── solution.c
 │
+├── screenshots/
+│   ├── Compare The Triplets.jpg.jpeg
+│   ├── Diagonal Difference.jpg.jpeg
+│   ├── Dynamic Array.jpg.jpeg
+│   ├── Sparse Arrays.jpeg
+│   └── Time Conversion.jpg.jpeg
+│
 └── README.md
