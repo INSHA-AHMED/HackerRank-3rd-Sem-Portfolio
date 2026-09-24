@@ -12,7 +12,7 @@ The portfolio demonstrates my understanding of fundamental data structures, arra
 
 - Practice algorithmic problem solving using C.
 - Strengthen understanding of arrays, strings, and dynamic data structures.
-- Apply efficient time and space complexity analysis.
+- Apply time and space complexity analysis.
 - Develop clean and structured C programs.
 - Maintain a documented GitHub portfolio of solved problems.
 
@@ -34,16 +34,18 @@ The portfolio demonstrates my understanding of fundamental data structures, arra
 
 Calculates the absolute difference between the sums of the primary and secondary diagonals of a square matrix.
 
-**Concepts:**
+### Concepts
+
 - 2D arrays
 - Matrix traversal
 - Dynamic memory allocation
 
-**Complexity:**
+### Complexity
+
 - Time: O(N²)
 - Space: O(N²)
 
-[View HackerRank Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+[HackerRank Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 
 [View Solution](./01-Diagonal-Difference/solution.c)
 
@@ -53,19 +55,21 @@ Calculates the absolute difference between the sums of the primary and secondary
 
 Implements the Dynamic Array problem using dynamically allocated arrays and the XOR operation to determine the required sequence.
 
-**Concepts:**
+### Concepts
+
 - Dynamic memory allocation
 - Arrays
-- `malloc`
-- `realloc`
-- `calloc`
+- malloc()
+- calloc()
+- realloc()
 - XOR operation
 
-**Complexity:**
+### Complexity
+
 - Time: O(Q) average
 - Space: O(N + Q)
 
-[View HackerRank Problem](https://www.hackerrank.com/challenges/dynamic-array/problem)
+[HackerRank Problem](https://www.hackerrank.com/challenges/dynamic-array/problem)
 
 [View Solution](./02-Dynamic-Array/solution.c)
 
@@ -75,17 +79,19 @@ Implements the Dynamic Array problem using dynamically allocated arrays and the 
 
 Converts a 12-hour AM/PM formatted time into 24-hour military time.
 
-**Concepts:**
+### Concepts
+
 - Strings
 - Character manipulation
 - Conditional statements
 - Arithmetic operations
 
-**Complexity:**
+### Complexity
+
 - Time: O(1)
 - Space: O(1)
 
-[View HackerRank Problem](https://www.hackerrank.com/challenges/time-conversion/problem)
+[HackerRank Problem](https://www.hackerrank.com/challenges/time-conversion/problem)
 
 [View Solution](./03-Time-Conversion/solution.c)
 
@@ -95,16 +101,18 @@ Converts a 12-hour AM/PM formatted time into 24-hour military time.
 
 Compares corresponding elements of two three-element arrays and calculates the scores of Alice and Bob.
 
-**Concepts:**
+### Concepts
+
 - Arrays
 - Loops
 - Conditional statements
 
-**Complexity:**
+### Complexity
+
 - Time: O(1)
 - Space: O(1)
 
-[View HackerRank Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+[HackerRank Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 
 [View Solution](./04-Compare-the-Triplets/solution.c)
 
@@ -114,17 +122,19 @@ Compares corresponding elements of two three-element arrays and calculates the s
 
 Counts how many times each query string appears in the given list of strings.
 
-**Concepts:**
+### Concepts
+
 - Strings
 - String comparison
 - Arrays
 - Nested loops
 
-**Complexity:**
+### Complexity
+
 - Time: O(N × Q)
 - Space: O(N)
 
-[View HackerRank Problem](https://www.hackerrank.com/challenges/sparse-arrays/problem)
+[HackerRank Problem](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 
 [View Solution](./05-Sparse-Arrays/solution.c)
 
